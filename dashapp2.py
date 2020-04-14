@@ -174,7 +174,7 @@ def update_graph(yaxis_column_name):
                 'title': 'Weeknummer',
                 'type': 'linear',
                 'tick0': 0,
-                'dtick': 2},
+                'dtick': 5},
             yaxis= {
                 'title': 'Bezetting (%)',
                 'dtick': 10},
