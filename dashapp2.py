@@ -170,16 +170,14 @@ def update_graph(yaxis_column_name):
         )],
         'layout': dict(
             title='Bezetting voor '+str(yaxis_column_name),
-            xaxis={
+            xaxis= {
                 'title': 'Weeknummer',
-                'dtick': 5,
-                'zeroline': False
-            },
-            yaxis={
-                'title': 'Bezetting (%)',
                 'type': 'linear',
-                'zeroline': False
-            },
+                'tick0': 0,
+                'dtick': 2},
+            yaxis= {
+                'title': 'Bezetting (%)',
+                'dtick': 10},
             margin={'l': 40, 'b': 50, 't': 40, 'r': 10},
             hovermode='x',
             height=400,
