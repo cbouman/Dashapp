@@ -11,6 +11,9 @@ import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
 
+#%% This week
+weekNumber = date.today().isocalendar()[1]
+
 #%% Define stylesheets and app server
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -90,7 +93,7 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(
             id='timeseries-total',
-            hoverData={'points': [{'x': 12}]})],
+            hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
         style={'width': '70%', 'display': 'inline-block', 'padding': 20}),
