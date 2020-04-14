@@ -132,13 +132,13 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(
             id='crossfilter-timeseries')
-            ], style={'width': '35%', 'display': 'inline-block', 'padding': 20}),
+            ], style={'width': '30%', 'display': 'inline-block', 'padding': 20}),
     
     #Pie chart for Werknemer
     html.Div([
         dcc.Graph(
             id='piechart-crossfilter-projects')
-        ], style={'width': '35%', 'display': 'inline-block', 'padding': 20})
+        ], style={'width': '30%', 'display': 'inline-block', 'padding': 20})
 ])
         
 #%% Define callback options based on werknemer changes
