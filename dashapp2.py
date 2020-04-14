@@ -123,7 +123,7 @@ app.layout = html.Div([
         dcc.Dropdown(
             id='crossfilter-yaxis-column1',
             options=[{'label': i, 'value': i} for i in wn_indicator],
-            value='Anne Spoor'),
+            value='Christian Bouman'),
         ], 
         #Define style of this html block
         style={'width': '10%', 'float': 'upperleft', 'display': 'block', 'padding': 20}),
