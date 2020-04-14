@@ -93,11 +93,11 @@ app.layout = html.Div([
             hoverData={'points': [{'x': 12}]})],
 
         #Define style of this html block
-        style={'width': '65%', 'display': 'inline-block', 'padding': 20}),
+        style={'width': '70%', 'display': 'inline-block', 'padding': 20}),
     
     html.Div([
         dcc.Graph(id='barchart-wn')],
-        style={'width': '30%', 'float': 'right', 'display': 'inline-block', 'padding': 20}),
+        style={'width': '25%', 'float': 'right', 'display': 'inline-block', 'padding': 20}),
     
     #Dropdown for Vakgroep
     html.Div([
@@ -132,13 +132,13 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(
             id='crossfilter-timeseries')
-            ], style={'width': '45%', 'display': 'inline-block', 'padding': 20}),
+            ], style={'width': '35%', 'display': 'inline-block', 'padding': 20}),
     
     #Pie chart for Werknemer
     html.Div([
         dcc.Graph(
             id='piechart-crossfilter-projects')
-        ], style={'width': '45%', 'display': 'inline-block', 'padding': 20})
+        ], style={'width': '35%', 'display': 'inline-block', 'padding': 20})
 ])
         
 #%% Define callback options based on werknemer changes
