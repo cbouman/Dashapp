@@ -248,7 +248,8 @@ def update_wn_list(hoverData):
         barchart = [go.Bar(
             x = dff['Bezetting'],
             y = dff['Werknemer'],
-            orientation = 'h')]
+            orientation = 'h',
+        opacity= 0.5)]
         return{
             'data': barchart,
             'layout': dict(
