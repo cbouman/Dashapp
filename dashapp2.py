@@ -275,7 +275,8 @@ def update_piechart(werknemer):
     piechart = [go.Pie(
             labels= dff_wn['Projectnaam'],
             values = dff_wn['Uren'],
-            hole=.3)]
+            hole=.3,
+            opacity= 0.5)]
     return {
         'data': piechart,
         'layout': dict(
