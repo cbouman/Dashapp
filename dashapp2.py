@@ -81,7 +81,7 @@ app.layout = html.Div([
     #Set upper row with dashboard title
     html.Div([
         html.H1('Capaciteitsplanning BU Water'),
-        dcc.Markdown('''Dit dashboard laat de resultaten van de ingevulde sheet capaciteitsplanningv2.xlsm zien. Het bovenste gedeelte is een snelle blik op de totale bezetting en per vakgroep. Door over de grafiek te hoveren met je muis kan je per week de laagste bezettingen per werknemer zien.
+        dcc.Markdown('''Dit dashboard laat de resultaten van de ingevulde sheet capaciteitsplanningv2.xlsm zien. Het bovenste gedeelte is een snelle blik op de totale bezetting en per team. Door over de grafiek te hoveren met je muis kan je per week de laagste bezettingen per werknemer zien.
                   Het tweede gedeelte is bedoeld om specifiek per werknemer te bekijken hoe de bezetting verloopt over het jaar en hoe de verdeling van projecten van de werknemer in elkaar zit. Al deze data is gebaseerd op wat de werknemer zelf ingevuld heeft in de capaciteitsplanning.''')
         ],
     style={
