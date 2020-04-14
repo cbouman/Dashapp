@@ -10,6 +10,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
+import plotly.express as px
 from datetime import date
 
 #%% This week
@@ -283,7 +284,8 @@ def update_piechart(werknemer):
             title='Projecten van '+str(werknemer),
             margin={'l': 40, 'b': 40, 't': 40, 'r': 10},
             height=400,
-            showlegend=False)
+            showlegend=False,
+            marker= {'colors': px.colors.qualitative.Pastel})
         }
 #%% Run app on server
 if __name__ == '__main__':
