@@ -10,6 +10,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
+from datetime import date
 
 #%% This week
 weekNumber = date.today().isocalendar()[1]
