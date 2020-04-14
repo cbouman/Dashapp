@@ -277,15 +277,14 @@ def update_piechart(werknemer):
             labels= dff_wn['Projectnaam'],
             values = dff_wn['Uren'],
             hole=.3,
-            color_discrete_sequence= go.colors.Blues)]
+            marker= {'colors': px.colors.qualitative.Pastel})]
     return {
         'data': piechart,
         'layout': dict(
             title='Projecten van '+str(werknemer),
             margin={'l': 40, 'b': 40, 't': 40, 'r': 10},
             height=400,
-            showlegend=False,
-            marker= {'colors': px.colors.qualitative.Pastel})
+            showlegend=False)
         }
 #%% Run app on server
 if __name__ == '__main__':
