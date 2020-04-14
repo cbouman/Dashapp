@@ -237,7 +237,7 @@ def update_graph2(yaxis_column_name2):
 def update_wn_list(hoverData):
         week = hoverData['points'][0]['x']
         dff = df_wn_per[df_wn_per['Week'] == str(week)]
-        dff = dff[dff['Bezetting'] < 50].sort_values(by='Bezetting', ascending=False)
+        dff = dff[dff['Bezetting'] < 30].sort_values(by='Bezetting', ascending=False)
         barchart = [go.Bar(
             x = dff['Bezetting'],
             y = dff['Werknemer'],
@@ -245,7 +245,7 @@ def update_wn_list(hoverData):
         return{
             'data': barchart,
             'layout': dict(
-                title='Bezetting onder 50% week '+str(week),
+                title='Bezetting onder 30% week '+str(week),
                 xaxis= {
                     'title': 'Bezetting (%)',
                     'dtick': 5},
