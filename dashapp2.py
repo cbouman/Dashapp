@@ -277,7 +277,7 @@ def update_piechart(werknemer):
             labels= dff_wn['Projectnaam'],
             values = dff_wn['Uren'],
             hole=.3,
-            marker= {'colors': px.colors.qualitative.Pastel})]
+            marker= {'colors': px.colors.Blues})]
     return {
         'data': piechart,
         'layout': dict(
