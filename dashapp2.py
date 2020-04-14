@@ -116,7 +116,7 @@ app.layout = html.Div([
             labelStyle = {'display': 'inline-block'})
         ],
         #Define style of this html block
-        style={'width': '15%', 'float': 'middle', 'display': 'block', 'padding': 20, 'padding-left': '3%'}),
+        style={'width': '15%', 'float': 'middle', 'display': 'block', 'padding': 20}),
     
     html.Hr(),
     
