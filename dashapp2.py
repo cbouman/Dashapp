@@ -217,7 +217,10 @@ def update_graph2(yaxis_column_name2):
                         'size': 10,
                         'opacity': 0.5,
                         'line': {'width': 0.5, 'color': 'white'}},
-                    name=i))
+                    name=i,
+                    legend = dict(
+                    x=45,
+                    y=80)))
     
     return{
         'data': traces,
