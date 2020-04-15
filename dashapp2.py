@@ -231,7 +231,7 @@ def update_graph2(yaxis_column_name2):
                 'dtick': 10},
             margin= {'l': 50, 'r': 20, 'b': 50, 't': 50},
             hovermode= 'x',
-            height= 300)
+            height= 400)
         }
 
 #%% Callback option based on hover over vakgroep timeseries
