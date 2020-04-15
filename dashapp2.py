@@ -101,11 +101,11 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': 1000, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 600, 'display': 'inline-block', 'padding': 10}),
     
     html.Div([
         dcc.Graph(id='barchart-wn')],
-        style={'width': 600, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 400, 'display': 'inline-block', 'padding': 10}),
     
     #Dropdown for Vakgroep
     html.Div([
