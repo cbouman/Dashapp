@@ -81,7 +81,7 @@ df_proj_abs = df_proj_abs.groupby(['Werknemer', 'Projectnaam'], as_index=False).
 app.layout = html.Div([
     #Set upper row with dashboard title
     html.Div([
-        html.H1('Capaciteitsplanning BU Water'),
+        html.H3('Capaciteitsplanning BU Water'),
         html.Details([
             html.Summary('Uitleg over het dashboard'),
             dcc.Markdown('''Dit dashboard laat de resultaten van de ingevulde sheet capaciteitsplanningv2.xlsm zien. Het bovenste gedeelte is een snelle blik op de totale bezetting en per team. Door over de grafiek te hoveren met je muis kan je per week de laagste bezettingen per werknemer zien.
