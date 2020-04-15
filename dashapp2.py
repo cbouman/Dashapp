@@ -258,7 +258,7 @@ def update_wn_list(hoverData):
                     'dtick': 5},
                 height= 400,
                 orientation= 'h',
-                margin= {'l': 200, 'r': 50, 'b': 50, 't': 50},
+                margin= {'l': 150, 'r': 50, 'b': 50, 't': 50},
                 )
             }
         
