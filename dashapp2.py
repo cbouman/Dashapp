@@ -107,7 +107,7 @@ app.layout = html.Div([
         dcc.Graph(id='barchart-wn')],
    
         #Define style of this html block
-        style={'width': 400, 'float': 'display': 'inline-block', 'padding': 10}),
+        style={'width': 400, 'display': 'inline-block', 'padding': 10}),
     
     #Dropdown for Vakgroep
     html.Div([
