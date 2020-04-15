@@ -101,11 +101,11 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': '65%', 'display': 'inline-block', 'padding': 20}),
+        style={'width': 500, 'display': 'inline-block', 'padding': 20}),
     
     html.Div([
         dcc.Graph(id='barchart-wn')],
-        style={'width': '25%', 'float': 'right', 'display': 'inline-block', 'padding': 20}),
+        style={'width': 300, 'float': 'right', 'display': 'inline-block', 'padding': 20}),
     
     #Dropdown for Vakgroep
     html.Div([
@@ -120,7 +120,7 @@ app.layout = html.Div([
             labelStyle = {'display': 'inline-block'})
         ],
         #Define style of this html block
-        style={'width': '15%', 'float': 'middle', 'display': 'block', 'padding': 20}),
+        style={'width': 100, 'float': 'middle', 'display': 'block', 'padding': 20}),
     
     html.Hr(),
     
@@ -134,19 +134,19 @@ app.layout = html.Div([
             value='Christian Bouman'),
         ], 
         #Define style of this html block
-        style={'width': '10%', 'float': 'upperleft', 'display': 'block', 'padding': 20}),
+        style={'width': 100, 'float': 'upperleft', 'display': 'block', 'padding': 20}),
     
     #Graph for Werknemer    
     html.Div([
         dcc.Graph(
             id='crossfilter-timeseries')
-            ], style={'width': '30%', 'display': 'inline-block', 'padding': 20}),
+            ], style={'width': 250, 'display': 'inline-block', 'padding': 20}),
     
     #Pie chart for Werknemer
     html.Div([
         dcc.Graph(
             id='piechart-crossfilter-projects')
-        ], style={'width': '30%', 'display': 'inline-block', 'padding': 20})
+        ], style={'width': 250, 'display': 'inline-block', 'padding': 20})
 ])
         
 #%% Define callback options based on werknemer changes
