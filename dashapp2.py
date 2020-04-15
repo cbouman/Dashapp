@@ -101,7 +101,7 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': 600, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 700, 'display': 'inline-block', 'padding': 10}),
     
     html.Div([
         dcc.Graph(id='barchart-wn')],
@@ -225,7 +225,7 @@ def update_graph2(yaxis_column_name2):
                 'title': 'Weeknummer',
                 'type': 'linear',
                 'tick0': 0,
-                'dtick': 2},
+                'dtick': 5},
             yaxis= {
                 'title': 'Bezetting (%)',
                 'dtick': 10},
