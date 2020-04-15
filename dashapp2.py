@@ -256,7 +256,7 @@ def update_wn_list(hoverData):
                 xaxis= {
                     'title': 'Bezetting (%)',
                     'dtick': 5},
-                height= 600,
+                height= 400,
                 orientation= 'h',
                 margin= {'l': 200, 'r': 50, 'b': 50, 't': 50},
                 )
