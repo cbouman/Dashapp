@@ -101,7 +101,7 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': '70%', 'display': 'inline-block', 'padding': 20}),
+        style={'width': '65%', 'display': 'inline-block', 'padding': 20}),
     
     html.Div([
         dcc.Graph(id='barchart-wn')],
