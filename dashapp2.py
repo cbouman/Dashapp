@@ -101,15 +101,13 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': 400, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 600, 'display': 'inline-block', 'padding': 10}),
     
     html.Div([
-        html.Details([
-            html.Summary('Grafiek met werknemers onder 30%'),
-            dcc.Graph(id='barchart-wn')])],
-        
+        dcc.Graph(id='barchart-wn')],
+   
         #Define style of this html block
-        style={'width': 400, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 400, 'float': 'display': 'inline-block', 'padding': 10}),
     
     #Dropdown for Vakgroep
     html.Div([
@@ -233,7 +231,7 @@ def update_graph2(yaxis_column_name2):
             yaxis= {
                 'title': 'Bezetting (%)',
                 'dtick': 10},
-            margin= {'l': 50, 'r': 20, 'b': 50, 't': 50},
+            margin= {'l': 50, 'r': 10, 'b': 50, 't': 50},
             hovermode= 'x',
             height= 400)
         }
@@ -262,7 +260,7 @@ def update_wn_list(hoverData):
                     'dtick': 5},
                 height= 400,
                 orientation= 'h',
-                margin= {'l': 200, 'r': 50, 'b': 50, 't': 50},
+                margin= {'l': 200, 'r': 10, 'b': 50, 't': 50},
                 )
             }
         
