@@ -101,10 +101,14 @@ app.layout = html.Div([
             hoverData={'points': [{'x': weekNumber}]})],
 
         #Define style of this html block
-        style={'width': 700, 'display': 'inline-block', 'padding': 10}),
+        style={'width': 400, 'display': 'inline-block', 'padding': 10}),
     
     html.Div([
-        dcc.Graph(id='barchart-wn')],
+        html.Details([
+            html.Summary('Grafiek met werknemers onder 30%'),
+            dcc.Graph(id='barchart-wn')])],
+        
+        #Define style of this html block
         style={'width': 400, 'display': 'inline-block', 'padding': 10}),
     
     #Dropdown for Vakgroep
@@ -258,7 +262,7 @@ def update_wn_list(hoverData):
                     'dtick': 5},
                 height= 400,
                 orientation= 'h',
-                margin= {'l': 150, 'r': 50, 'b': 50, 't': 50},
+                margin= {'l': 200, 'r': 50, 'b': 50, 't': 50},
                 )
             }
         
