@@ -217,10 +217,7 @@ def update_graph2(yaxis_column_name2):
                         'size': 10,
                         'opacity': 0.5,
                         'line': {'width': 0.5, 'color': 'white'}},
-                    name=i,
-                    legend = dict(
-                    x=45,
-                    y=80)))
+                    name=i))
     
     return{
         'data': traces,
@@ -236,7 +233,8 @@ def update_graph2(yaxis_column_name2):
                 'dtick': 10},
             margin= {'l': 50, 'r': 10, 'b': 50, 't': 50},
             hovermode= 'x',
-            height= 400)
+            height= 400,
+            legend= dict(x=45, y=-25))
         }
 
 #%% Callback option based on hover over vakgroep timeseries
