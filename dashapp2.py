@@ -234,7 +234,7 @@ def update_graph2(yaxis_column_name2):
             margin= {'l': 50, 'r': 10, 'b': 50, 't': 50},
             hovermode= 'x',
             height= 400,
-            legend= dict(x=0.85, y=1))
+            legend= dict(x=0.8, y=1))
         }
 
 #%% Callback option based on hover over vakgroep timeseries
