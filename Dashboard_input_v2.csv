@@ -140,7 +140,7 @@ Martijn Huisjes;WG;193430;Nieuwe Meer;projectleiding;Martijn Huisjes;Opdracht;40
 Martijn Huisjes;WG;181245;Hoekse Aarkade Fase Do;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;0;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Martijn Huisjes;WG;192898;Accountmanagement HDSR;Accountmanager;Martijn Huisjes;Opdracht;40;0;0;0;0;0;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Martijn Huisjes;WG;;Kadeverbetering GHIJN;Tendermanagement;Martijn Huisjes;Offerte;40;0;0;0;0;0;8;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Martijn Huisjes;WG;;Tenderoverleg;Tendermanagement;Niels van Huet;;40;0;0;0;0;0;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;0;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5;1,5
+Martijn Huisjes;WG;;Tenderoverleg;Tendermanagement;Niels van Huet;;40;0;0;0;0;0;2;2;2;2;2;2;2;2;2;2;2;2;2;0;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2
 Martijn Huisjes;WG;180155;Hellegatspolder;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;0;2;2;4;2;0;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Martijn Huisjes;WG;182400;Piekberging;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;4;2;2;2;2;2;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Martijn Huisjes;WG;170898;Inlaat Stompwijk;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -197,7 +197,7 @@ Niels van Huët;DM;;ROK ITA (A en M / 4W);Projectleiding;;;40;12;16;16;16;16;16;
 Oscar Meesters;WG;;Vakantie;Vakantie;;;40;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Oscar Meesters;WG;;Horizontale belasting palen Verdeelstation;paalfundering;Jeroen Helder;Opdracht;40;;;;;;;;;;;;;;;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Zettingsanalsyes Paleiskwartier;;;Offerte;40;;;;;;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Oscar Meesters;WG;;Schakenbosch;;Patrick Dassen;Opdracht;40;;;;0,5;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Oscar Meesters;WG;;Schakenbosch;;Patrick Dassen;Opdracht;40;;;;1;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Shipdock Amsterdam;;Willem Maris;Verkenning;40;;;;4;12;8;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Deuringerstraat te Hengelo;;Dennis Stevelink;Offerte;40;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Yara, stortsteen;;Jos Sinke;Offerte;40;;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -289,16 +289,16 @@ Ward van Laatum;GW;;Dareius;;Leon van Hamersveld;R&D;40;;;;;;;;;;;;6;0;4;4;8;;;;
 Ward van Laatum;GW;;Stresstest Brabant;;Thijs Visser;Opdracht;40;;;;;;;;;;;;2;0;16;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;GW;;De Lange Rekken;;Ellen Muskens;Opdracht;40;;;;;;;;;;;;2;0;2;1;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;GW;;ICT BU Water;;Niels van Huet;R&D;40;;;;;;;;;;;;1;1;1;1;1;1;1;1;1;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ward van Laatum;GW;;Bemalingsadvies Delfzeil;;Steven van Barkel;Opdracht;40;;;;;;;;;;;;0;2;0;0,5;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ward van Laatum;GW;;Bemalingsadvies Delfzeil;;Steven van Barkel;Opdracht;40;;;;;;;;;;;;0;2;0;1;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;GW;;Infiltratie onderzoek Heino P+R;;Antoine Booms;Offerte;40;;;;;;;;;;;;;;;2;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;GW;;Tijdreeksanalyse KW 15 Groningen;;Bjorn Mars;Opdracht;40;;;;;;;;;;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;GW;;Tygron ontwikkelingen;;Niels van Huet;R&D;40;;;;;;;;;;;;0;10;1;1;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;;Vakantie;Vakantie;;;40;40;8;0;0;0;0;40;0;0;0;0;0;0;0;0;8;0;8;8;0;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
-Willeke van de Wardt;OW;1;Teamoverleg/BU-overleg/bila;;;;40;;;;;;;;;;;;;;1,5;0;0;1,5;0;0;0;0;0;1;1,5;0;0;1,5;;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;OW;1;Teamoverleg/BU-overleg/bila;;;;40;;;;;;;;;;;;;;2;0;0;2;0;0;0;0;0;1;2;0;0;2;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;1;Tygron;Artikel;;;40;;;;16;4;;;;;;0;0;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;OW;1;dstyle;Documentbeheerder;;;40;;;;;;;;;;;;2;;0,5;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;OW;1;dstyle;Documentbeheerder;;;40;;;;;;;;;;;;2;;1;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;192291;TB_ARKNZK;Rapportage Alternatieve afvoerroutes;Richard Jansink;Afgerond;40;;;;8;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;OW;190858;Afweging gemaal KAT-terrein Leiden;Advies uitwerken haalbaarheid;Bart Snijders;Opdracht;40;;;;;2;0;0;0;0;0;0;0;0;0;1,5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;OW;190858;Afweging gemaal KAT-terrein Leiden;Advies uitwerken haalbaarheid;Bart Snijders;Opdracht;40;;;;;2;0;0;0;0;0;0;0;0;0;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;191844;Vervolg proces klimaatadaptie Zeewolde;;Guy Henckens;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;191979;Terborg;Tygron model;Marijn Stadhouder;Opdracht;40;;;;2;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;OW;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;;Opdracht;40;;;;8;8;16;0;40;40;40;40;8;40;40;40;24;16;16;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;
