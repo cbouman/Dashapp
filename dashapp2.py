@@ -23,21 +23,21 @@ server = app.server
 
 #%% Load dataframe
 df = pd.read_csv('Dashboard_input_v2.csv', sep=';')
-
+df.iloc[:, 7:61] = df.iloc[:, 7:61].fillna(0).astype(float)
 #%% Prepare dataframe for werknemer data
 # Create dataframe for hours per week per werknemer
 df_wn_week = df.drop(columns=['Projectnummer', 'Projectnaam', 'Taken', 'Projectleider', 'Status', 'Target'])
 df_wn_week = df_wn_week[df_wn_week['Werknemer'].notna()]
 df_wn_week = df_wn_week.groupby(['Werknemer', 'Vakgroep']).sum()
 
-# Create dataframe for target hours per week per werknemer
+#%% Create dataframe for target hours per week per werknemer
 df_wn_target = df.loc[:, ['Werknemer', 'Vakgroep', 'Target']]
 df_wn_target = df_wn_target.groupby(['Werknemer', 'Vakgroep']).mean()
 df_wn_target = df_wn_target.reset_index()
 
-# Calculate percentage
+#%% Calculate percentage
 df_wn_tot = pd.merge(df_wn_week, df_wn_target, on=['Werknemer', 'Vakgroep'])
-df_wn_per = df_wn_tot.iloc[:, 2:54].div(df_wn_tot['Target'], axis= 'index')
+df_wn_per = df_wn_tot.iloc[:, 2:-1].div(df_wn_tot['Target'], axis= 'index')
 df_wn_per['Werknemer'] = df_wn_tot['Werknemer']
 df_wn_per['Vakgroep'] = df_wn_tot['Vakgroep']
 df_wn_per = df_wn_per.melt(id_vars=['Werknemer', 'Vakgroep'], var_name='Week')
@@ -82,6 +82,7 @@ app.layout = html.Div([
     #Set upper row with dashboard title
     html.Div([
         html.H3('Capaciteitsplanning BU Water'),
+        dcc.Markdown('''*Laatste update: 20 april 2020*'''),
         html.Details([
             html.Summary('Uitleg over het dashboard'),
             dcc.Markdown('''Dit dashboard laat de resultaten van de ingevulde sheet capaciteitsplanningv2.xlsm zien. Het bovenste gedeelte is een snelle blik op de totale bezetting en per team. Door over de grafiek te hoveren met je muis kan je per week de laagste bezettingen per werknemer zien.
