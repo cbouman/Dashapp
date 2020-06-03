@@ -16,9 +16,6 @@ from datetime import date
 #%% This week
 weekNumber = date.today().isocalendar()[1]
 
-#%% Update date
-update_date = git log -1 --format=%cd
-
 #%% Define stylesheets and app server
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -85,7 +82,7 @@ app.layout = html.Div([
     #Set upper row with dashboard title
     html.Div([
         html.H3('Capaciteitsplanning BU Water'),
-        dcc.Markdown('''*Laatste update: 15 mei 2020 10:25*'''),
+        dcc.Markdown('''*Laatste update: 3 juni 2020 12:04*'''),
         html.Details([
             html.Summary('Uitleg over het dashboard'),
             dcc.Markdown('''Dit dashboard laat de resultaten van de ingevulde sheet capaciteitsplanningv2.xlsm zien. Het bovenste gedeelte is een snelle blik op de totale bezetting en per team. Door over de grafiek te hoveren met je muis kan je per week de laagste bezettingen per werknemer zien.
