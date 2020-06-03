@@ -16,6 +16,9 @@ from datetime import date
 #%% This week
 weekNumber = date.today().isocalendar()[1]
 
+#%% Update date
+update_date = git log -1 --format=%cd
+
 #%% Define stylesheets and app server
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
