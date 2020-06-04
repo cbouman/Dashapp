@@ -59,7 +59,7 @@ vg_indicator = df_vg_per['Vakgroep'].unique()
 
 #%% Prepare dataframe for total data
 # Create column for total bezetting
-df_tot = df_vg_per
+df_tot = df_vg_per.loc[df_vg_per['Vakgroep'].isin(['WG', 'WS'])
 df_tot = df_tot.groupby(['Week'], as_index=False)['Bezetting'].mean()
 df_tot['Week'] = df_tot['Week'].astype(int)
 df_tot = df_tot.sort_values(by='Week', ascending=True)
@@ -119,7 +119,7 @@ app.layout = html.Div([
         dcc.Checklist(
             id ='checkboxes-vakgroepen',
             options=[{'label': i, 'value': i} for i in vg_indicator],
-            value=['GW', 'OW', 'WG'],
+            value=['DM', 'WG', 'WS'],
             labelStyle = {'display': 'inline-block'})
         ],
         #Define style of this html block
