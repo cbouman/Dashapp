@@ -1,9 +1,9 @@
 ﻿Werknemer;Vakgroep;Projectnummer;Projectnaam;Taken;Projectleider;Status;Target;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28;29;30;31;32;33;34;35;36;37;38;39;40;41;42;43;44;45;46;47;48;49;50;51;52;53
-Anne Spoor;WS;;Vakantie;Vakantie;;;40;40;32;0;0;0;0;0;0;16;0;0;8;0;0;0;8;0;0;0;0;16;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Anne Spoor;WS;;Combinatie Herepoort;Geohydrologie/bemalingen;Joop;Opdracht;40;0;0;12;15;12;16;0;0;0;0;0;16;16;20;16;16;16;16;8;24;24;16;16;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Anne Spoor;WS;;Noorderspoort/Zaluw;Begeleiden uitvoering;Joop;Opdracht;40;0;0;10;8;6;4;0;0;0;0;0;6;6;5;5;5;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Anne Spoor;WS;;Young Bondts;Coordinatie;;;40;0;0;2;3;2;2;1;1;0;0;0;1;1;1;0;2;0;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Anne Spoor;WS;;HPT sonderingen Aagje dekenlaan;Begeleiden uitvoering;Thijs Visser;opdracht;40;0;0;3;4;1;3;0;0;0;0;0;2;1;0;0;0;0;0;0;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;Vakantie;Vakantie;;;40;40;32;0;0;0;0;0;0;16;0;0;8;0;0;0;8;0;0;0;0;16;0;8;0;0;0;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;24;40;24;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;Combinatie Herepoort;Geohydrologie/bemalingen;Joop;Opdracht;40;0;0;12;15;12;16;0;0;0;0;0;16;16;20;16;16;16;16;8;24;24;16;8;32;24;16;0;0;16;16;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;Noorderspoort/Zaluw;Begeleiden uitvoering;Joop;Opdracht;40;0;0;10;8;6;4;0;0;0;0;0;6;6;5;5;5;4;4;4;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;Young Bondts;Coordinatie;;;40;0;0;2;3;2;2;1;1;0;0;0;1;1;1;0;2;0;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;HPT sonderingen Aagje dekenlaan;Begeleiden uitvoering;Thijs Visser;opdracht;40;0;0;3;4;1;3;0;0;0;0;0;2;1;0;0;0;0;0;0;2;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;;Infiltratieonderzoek Aagje Dekenlaan Soest;Veldewerk en uitwerken rapportage;Thijs Visser;Opdracht;40;0;0;0;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;;Infiltratie Bisschopsweg Amersfoort ;Veldewerk en uitwerken rapportage;Thijs Visser;Offerte;40;0;0;0;1;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;;The Joan;Advisering;Berny kok;Opdracht;40;0;0;1;0;0;0;0;0;0;0;0;4;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -13,16 +13,18 @@ Anne Spoor;WS;;Bemaling Hemweg ;Advisering;Anne Spoor;Offerte;40;0;0;0;0;0;16;16
 Anne Spoor;WS;;Infiltratie Speelplaats Beetzlaan te Soest;Advisering;Anne Spoor;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;;Infiltratie Speelplaats Irenelaan;Advisering;Anne Spoor;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;182070;Bemalingsadvies aanvullen Rucphen;Advisering;Martijn Rombouts;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Anne Spoor;WS;193430;De Nieuwe Meer;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;0;0;0;0;0;0;2;2;7;3;3;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;193430;De Nieuwe Meer;projectleiding;Martijn Huisjes;Opdracht;40;0;0;0;0;0;0;0;0;0;0;2;2;7;3;3;3;3;3;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;180858;Bemaling Enschede;Advisering;Berny Kok;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anne Spoor;WS;;Infiltratie Anna Paulowna;Advisering;Richard Jansink;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Anne Spoor;WS;;;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Arno van Anrooij;WS;200725;Ondersteuning Beleid Gelderland Sport en Duurzaamheid;;;;40;;;;;;;;;;;;;;;;;;;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Arno van Anrooij;WS;200305;Areaal potentiescan RWS;;;;40;;;;;;;;;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Arno van Anrooij;WS;201987;Ondergrondse ruimte voor warmtenetten Leidschendam-Voorburg;;;;40;;;;;;;;;;;;;;;;;;;;0;10;10;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Arno van Anrooij;WS;;Vakantie;Vakantie;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Beatrijs Koet;WS;;Vakantie;Vakantie;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;8;0;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Beatrijs Koet;WS;182505;A13/A16;;Joop Meinders;Opdracht;40;0;28;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;16;24;0;24;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Beatrijs Koet;WS;194679;Stresstest SNV extra werk;;Beatrijs Koet;Offerte;40;;;;;;;;;;2;4;2;2;4;4;1;1;5;2;2;5;2;1;1;0;1;1;1;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;
-Beatrijs Koet;WS;193113;Stresstest NB;;Thijs Visser;Opdracht;40;0;4;8;8;8;8;8;8;8;8;8;2;1;8;8;4;;1;4;16;8;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Beatrijs Koet;WS;;Vakantie;Vakantie;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;8;0;40;0;0;0;0;0;0;0;8;40;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Beatrijs Koet;WS;182505;A13/A16;;Joop Meinders;Opdracht;40;0;28;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;16;24;0;24;24;24;18;18;18;18;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Beatrijs Koet;WS;194679;Stresstest SNV extra werk;;Beatrijs Koet;Offerte;40;;;;;;;;;;2;4;2;2;4;4;1;1;5;2;2;5;2;1;1;0;1;1;3;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;
+Beatrijs Koet;WS;193113;Stresstest NB;;Thijs Visser;Opdracht;40;0;4;8;8;8;8;8;8;8;8;8;2;1;8;8;4;;1;4;16;8;8;8;8;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Beatrijs Koet;WS;-;Coordinatie meerdere rechtszaken;;Beatrijs Koet;Opdracht/Offerte;40;0;6;2;1;1;1;1;1;1;0;0;3;1;2;5;3;2;2;2;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Beatrijs Koet;WS;-;OR;;Beatrijs Koet;Opdracht/Offerte;40;0;0;0;0;0;0;0;0;1;0;0;0;0;4;1;8;2;2;2;4;2;1;0;8;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Bjorn Mars - González Delgado;WS;;Vakantie;Vakantie;;;36;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -30,15 +32,20 @@ Bjorn Mars - González Delgado;WS;;Feestdagen;Vrije dag;;;36;0;0;0;0;0;0;0;0;0;0
 Bjorn Mars - González Delgado;WS;191223;Stompwijk;rapportage;Thijs Visser;opdracht;36;0;8;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;194410;De lange rekken;rapportage;Thijs Visser;opdracht;36;0;8;8;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;192505;De groen boog;rapportage K20;Joop;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Bjorn Mars - González Delgado;WS;194857;Hemweg;rapportage;Richard Jansink;Opdracht;36;0;8;8;8;10;0;0;0;0;0;0;0;0;4;0;2;0;4;0;0;10;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;194857;Hemweg;rapportage;Richard Jansink;Opdracht;36;0;8;8;8;10;0;0;0;0;0;0;0;0;4;0;2;0;4;0;0;10;1;12;;;2;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;194570;JOAN;Voorbereiding - controle;Berny Kok;opdracht;36;0;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;;SIKB;Bijeenkomst visuele verontreiniging;;;36;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;201811;bemalingsadvies Vinkeveen;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;6;0;0;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;201190;WKO KPN Den Bosch;Modelering WKO;Jeroen Helder;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;14;0;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;201811;bemalingsadvies horndijk 34;Geohydrologie/bemalingen;Jeroen Helder;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;16;4;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Bjorn Mars - González Delgado;WS;181010;Combinatie Herepoort;Geohydrologie/bemalingen;Joop;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;2;8;24;16;8;4;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;181010;Combinatie Herepoort;Geohydrologie/bemalingen;Joop;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;2;8;24;16;8;4;0;;;8;8;20;4;16;4;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;202221;Bemalingsadvies Hellendoorn;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;200756;Bemalingsadvies  Maaseikerweg Weert;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;;infiltratieproeven;;Anne Spoor;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;3;6;;15;4;2;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;;Dichterswijk ;;;;36;;;;;;;;;;;;;;;;;;;;;;;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;;Offertes;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;202889;Dichterswijk Kademuur Bemalingsadvies;Geohydrologie/bemalingen;Bjorn Mars;Opdracht ;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;10;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bjorn Mars - González Delgado;WS;151605002;Update Bemalingsadvies;Geohydrologie/bemalingen;;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;
 Bjorn Mars - González Delgado;WS;;;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Chantal van der Poel;WS;;Vakantie;Vakantie;;;36;;;;;;;;;;;;;;;;;;;;;;;;;;;;36;;;;;;;;;;;;;;;;;;;;;;;;;
 Chantal van der Poel;WS;193114;Stresstest Noord Brabant;Kaarten maken/GIS viewer;Thijs Visser;Opdracht;36;;;;;;;;;;;;;;;;;;;;;;;8;16;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -50,8 +57,8 @@ Chantal van der Poel;WS;;Tender waterschap Limburg;Prezi presentatie maken;;;36;
 Christian Bouman;WS;;Vakantie;Vakantie;;;40;24;0;0;0;0;0;8;0;0;0;0;0;0;0;0;0;8;8;8;0;16;0;0;0;0;0;0;0;0;0;0;0;0;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Christian Bouman;WS;20C066;Nationaal Water Traineeship;Trainingen, verslagen, coaching, overleggen;NWT;;40;0;0;9;0;1;0;0;2;1;0;1;0;8;8;8;8;1;8;9;8;0;8;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;1;0;1;0;1;0;1;0;1;0;1;0;1;0;0;1
 Christian Bouman;WS;20C066;Project de Dommel (NWT);Onderdeel projectteam;Imke Erven;Afgerond;40;0;8;0;16;8;;;16;16;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Christian Bouman;WS;20C066;Project grondbalans Tygron;Projectleider;Christian Bouman;;40;0;;0;;;;;;;;;0;0;0;0;4;2;;0;8;4;0;8;8;8;8;8;8;8;8;8;8;8;0;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Christian Bouman;WS;20C062;Commerciële activiteiten Waterschappen;Tygron overleg en previewsessies;Thijs Visser;;40;0;1;5;1;;1;;1;;3;;0;;1;;1;;1;;1;;1;;0;;1;;1;;1;;;;;;;;;;;;;;;;;;;;;;;
+Christian Bouman;WS;20C066;Project grondbalans Tygron (NWT);Projectleider;Christian Bouman;;40;0;;0;;;;;;;;;0;0;0;0;4;2;;0;8;4;0;0;0;2;0;20;16;8;8;8;8;8;0;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Christian Bouman;WS;20C062;Commerciële activiteiten Waterschappen;Tygron overleg en previewsessies;Thijs Visser;;40;0;1;5;1;;1;;1;;3;;0;;1;;1;;1;;1;;1;;0;;1;;0;;0;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;183944;ROK ITA (A en M / 4W);Ondersteunende taken risico's;Niels van Huet;Afgerond;40;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;192898;ROK HDSR;Ondersteunende taken: planning, risico's, CMP;Martijn Huisjes;Opdracht;40;6;4;4;2;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;194498;Presentatie Tygron Pilot HDSR;Voorbereiding, uitwerking, sessies;Thijs Visser;Opdracht;40;0;4;6;8;2;0;8;8;8;16;8;12;0;16;4;0;;8;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -59,12 +66,12 @@ Christian Bouman;WS;194497;Projectonwikkeling Zuilense Vecht;Ondersteuning advie
 Christian Bouman;WS;20C00404;Ontwikkelgroep Datascience;Groepstrekker;Christian Bouman;Opdracht;40;5;4;2;6;4;;;;;1;;;;4;;;;;;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;200784;Drainage Zwaluw;Berekening drainage;Joop Meinders;Afgerond;40;;;;;;8;8;16;16;8;8;;;8;8;4;;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;194938;Grondwatermonitoring Mooder Maas;Opleiding tijdreeksanalyse;Jeroen Helder;Afgerond;40;;;;;;;4;;;4;;16;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Christian Bouman;WS;193678;ROVK Ingenieursdienst WSL;Ondersteunend taken;Richard Jansink;Offerte;40;;;;;;;;;;;8;12;;8;16;16;16;8;11;8;6;8;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Christian Bouman;WS;193678;ROVK Ingenieursdienst WSL;Ondersteunend taken;Richard Jansink;Offerte;40;;;;;;;;;;;8;12;;8;16;16;16;8;11;8;6;8;8;8;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;194431;ROK ITA 2020-2023;Ondersteunende taken CMP Relatics;Niels van Huet;Opdracht;40;;;;;;;;;;;;;;;;;;8;;;;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Christian Bouman;WS;201299;Bouw- woonrijp MBI terrein Raalte;Maken WHP;Roy Feijen;Opdracht;40;;;;;;;;;;;;;;;;;;;1;10;10;16;16;8;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Christian Bouman;WS;201299;Bouw- woonrijp MBI terrein Raalte;Maken WHP;Roy Feijen;Opdracht;40;;;;;;;;;;;;;;;;;;;1;10;10;16;16;8;8;4;0;8;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;193506;Watertoets de Werf/Nobelhorst;Uitvoeren watertoets;Rianne Arendsen;Opdracht;40;;;;;;;;;;;;;;;8;8;;;4;;;4;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Christian Bouman;WS;;De boer als watermanager;Maken Tygronmodel;Leon van Hamersveld;Opdracht;40;;;;;;;;;;;;;;;;;;;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Christian Bouman;WS;200929;Groenewoud;Ondersteuende taken Tygron;Thijs Visser;Opdracht;40;;;;;;;;;;;;;;;;;;;;;4;8;8;8;16;16;8;;;;;;;;;;;;;;;;;;;;;;;;;;
+Christian Bouman;WS;200929;Groenewoud;Ondersteuende taken Tygron;Thijs Visser;Opdracht;40;;;;;;;;;;;;;;;;;;;;;4;8;8;8;16;16;11;16;0;0;;;;;;;;;;;;;;;;;;;;;;;
 Dirk-Jan Staman;WG;;Vakantie;Vakantie;;;36;36;0;0;0;0;0;0;0;0;0;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Dirk-Jan Staman;WG;;Tender Stenendijk HWBP WDOD;Projectmanager;Dirk-Jan Staman;Offerte;36;0;6;6;6;4;2;2;2;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Dirk-Jan Staman;WG;;Kolksluis Spaarndam;Projectmanager;Dirk-Jan Staman;Opdracht;36;0;8;8;8;8;8;8;8;8;8;8;8;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -92,17 +99,20 @@ Fictief Waterveiligheid;WG;;;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Fictief Waterveiligheid;WG;;;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Hans Nederend;WG;;Vakantie;Vakantie;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Hans Nederend;WG;;Detachering RWS Maeslandtkering;;;;36;0;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36;36
-Huub Kuipers;WS;;Vakantie;Vakantie;;;40;40;0;0;0;0;0;0;0;0;0;16;8;0;0;0;8;0;8;0;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Huub Kuipers;WS;;Vakantie;Vakantie;;;40;40;0;0;0;0;0;0;0;0;0;16;8;0;0;0;8;0;8;0;8;16;0;0;1;1;8;5;0;0;20;40;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Huub Kuipers;WS;191606;Detachering WSRL;Adviseur;Sido Grin;;40;0;16;11;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Huub Kuipers;WS;193422;Aeriusberekeningen;Adviseur;Willem Maris;;40;0;12;8;16;0;9;0;8;0;6;0;12;8;18;12;9;12;24;24;24;22;24;12;12;12;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Huub Kuipers;WS;182505;De Groene Boog A13-A16;Ontwerper ;Joop Meinders;;40;0;0;0;0;20;20;24;32;28;24;24;8;24;20;20;23;28;12;16;8;2;0;0;0;0;12;12;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Huub Kuipers;WS;202367;H20 Wezep afwatering;Adviseur;Sara Eeman;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;0;8;0;0;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Huub Kuipers;WS;160202;Food Centre Amsterdam;Adviseur;Patrick Dassen;;40;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;8;8;0;0;0;8;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Huub Kuipers;WS;193422;Aeriusberekeningen;Adviseur;Willem Maris;;40;0;12;8;16;0;9;0;8;0;6;0;12;8;18;12;9;12;24;24;24;22;24;36;27;16;8;20;20;8;8;0;8;8;8;8;8;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Huub Kuipers;WS;182505;De Groene Boog A13-A16;Ontwerper ;Joop Meinders;;40;0;0;0;0;20;20;24;32;28;24;24;8;24;20;20;23;28;12;16;8;2;0;2;2;4;4;0;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Huub Kuipers;WS;194891;VW Stikstofcontourenkaart irt logistiek;Adviseur;Willem Maris;;40;0;4;12;16;2;7;16;0;12;10;0;8;8;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Huub Kuipers;WS;194744;Witterdiep UPN + Aerius;Adviseur;Richard Jansink;;40;0;3;6;8;9;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Ilse Groenouwe;WG;193691;Vakantie/parttime;Vakantie;;;36;36;0;0;0;0;0;0;0;36;0;0;0;0;0;0;0;0;0;0;0;8;0;8;0;8;0;8;0;8;0;8;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36;36
-Ilse Groenouwe;WG;193691;HHNK;;Sanne van Mispelaar;;36;0;12;12;12;12;12;12;12;0;12;12;12;24;24;24;24;24;32;32;32;32;32;32;32;32;32;32;32;32;32;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;0;0
-Ilse Groenouwe;WG;;The Joan;;Berny ;;36;;;;;;;;;;2;2;2;2;2;2;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ilse Groenouwe;WG;tenders;Lauwermeerdijken/ITA/HDSR;;;;36;0;16;16;16;16;16;16;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Ilse Groenouwe;WG;geotechniek +opleiden;coordinatie en opleiding;;;;36;0;2;2;2;2;2;2;2;0;2;2;2;4;4;4;4;4;4;4;4;4;4;0;4;0;4;0;4;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ilse Groenouwe;WG;193691;Vakantie/parttime;Vakantie;;;36;36;0;0;0;0;0;0;0;36;0;0;0;0;0;0;0;0;0;0;0;8;0;8;0;8;0;8;0;8;0;40;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36;36
+Ilse Groenouwe;WG;193691;HHNK;;Sanne van Mispelaar;;36;0;12;12;12;12;12;12;12;0;12;12;12;24;24;24;24;24;32;32;32;32;32;30;30;28;28;30;32;32;32;0;0;0;32;32;32;32;32;32;32;12;12;12;12;12;12;12;12;12;12;12;0;0
+Ilse Groenouwe;WG;;Balkon Terneuzen;;Berny ;;36;;;;;;;;;;2;2;2;2;2;2;2;2;;;;;;;2;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ilse Groenouwe;WG;;kleine projecten geotechniek;;;;36;0;16;16;16;16;16;16;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ilse Groenouwe;WG;;Strippenkaart HDSR;PL/senior adviseur;Martijn Huisjes;offerte;36;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;;;;;
+Ilse Groenouwe;WG;geotechniek +opleiden;coordinatie en opleiding;;;;36;0;2;2;2;2;2;2;2;0;2;2;2;4;4;4;4;4;4;4;4;4;4;0;1;0;1;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Jeroen Helder;WS;;Vakantie / FEESTDAGEN;Vakantie;;;32;32;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;8;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Jeroen Helder;WS;194345;Verhaallijn Veluwe;beschrijven watersysteem veluwe;;opdracht;32;0;0;0;4;0;0;0;0;0;0;0;0;0;8;8;0;0;0;0;2;8;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Jeroen Helder;WS;194913;Bemaling Stuartweg;;;opdracht;32;0;0;0;0;0;0;0;0;0;0;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -141,7 +151,7 @@ Joop Meinders;WS;;Vakantie;Vakantie;;;36;28;0;0;0;0;0;0;0;0;0;12;8;0;0;0;0;0;0;0
 Joop Meinders;WS;182505;Waterhuishouding A16;projectleiding;Joop Meinders;opdracht;36;0;32;32;32;32;32;32;32;32;32;24;24;32;32;32;32;32;32;32;32;32;32;24;24;24;24;24;24;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Joop Meinders;WS;193649;grondwatermonitoring Blankenburgtunnel;projectleiding;Joop Meinders;opdracht;36;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
 Joop Meinders;WS;181700;Zwaluw;projectleiding;Joop Meinders;opdracht;36;0;1;0;2;4;1;0;4;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0
-Joop Meinders;WS;;waterhuishouding Roggebotsluis;;;;36;;;;;;;;;;;;;;;;;;;;;;;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Joop Meinders;ws;;waterhuishouding Roggebotsluis;;;;36;;;;;;;;;;;;;;;;;;;;;;;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Joop Meinders;WS;181010;Waterhuishouding rondweg Groningen;projectleiding;Joop Meinders;opdracht;36;0;0;0;1;0;1;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0
 Luc Ponsioen;WG;;Vakantie;Vakantie;;;40;0;24;0;0;0;0;0;0;0;0;16;16;0;0;0;0;0;8;8;0;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Luc Ponsioen;WG;182293;Levvel (project Afsluitdijk);Adviseursdiensten;Luc Ponsioen;Opdracht;40;0;0;24;24;24;24;24;24;24;24;16;16;28;28;28;28;28;28;16;20;16;24;24;24;24;24;24;24;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -150,14 +160,14 @@ Luc Ponsioen;WG;;Dijkinspectie Limburg;Adviseursdiensten;Niek Evers;Opdracht;40;
 Luc Ponsioen;WG;;Taskforce Delta Technologie;Adviseursdiensten;Jan Put;Ontwikkeling;40;0;0;4;0;4;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Luc Ponsioen;WG;19c170;Dareius (Digital Twin);Adviseursdiensten;Leon van Hamersveld;Ontwikkeling;40;0;0;0;4;0;4;0;4;0;4;0;0;4;4;2;4;0;0;2;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Luc Ponsioen;WG;;Young Bondts;;;;40;0;0;0;2;2;2;2;2;2;2;2;2;2;2;2;2;4;6;4;2;2;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Maikel Nouws;WS;;Vakantie;Vakantie;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;40;;;;;;;;;;;;;;;;;;;;
-Maikel Nouws;WS;201375;RES Regio Arnhem-Nijmegen;Samenstellen StoryMap;;Opdracht;40;;;;;;;;;;;;;;;;;;;;;16;16;16;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Maikel Nouws;WS;200616;Mobiliteitspan Gooise Meren;GIS werkzaamheden ;Alex van Doorn;Opdracht;40;;;;;;;;;;;;;;;;;;;;;8;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Maikel Nouws;WS;202258;Mijn Water;GIS werkzaamheden ;Rudie Peeten;Opdracht;40;;;;;;;;;;;;;;;;;;;;;4;4;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Maikel Nouws;WS;;Diverse projecten;GIS werkzaamheden ;;;40;;;;;;;;;;;;;;;;;;;;;4;4;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Mark van der Valk;WS;;Vakantie;Vakantie;;;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maikel Nouws;WS;;Vakantie;Vakantie;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;40;40;;;;;;;;;;;;;;;;;;;;
+Maikel Nouws;WS;201375;Stresstest Brabant;GIS werkzaamheden ;;Opdracht;40;;;;;;;;;;;;;;;;;;;;;16;16;16;8;0;0;0;16;;;;;;;;;;;;;;;;;;;;;;;;;
+Maikel Nouws;WS;200616;OAS Harnaschpolder;GIS werkzaamheden ;;Opdracht;40;;;;;;;;;;;;;;;;;;;;;8;0;0;4;8;4;0;8;;;;;;;;;;;;;;;;;;;;;;;;;
+Maikel Nouws;WS;202258;Mijn Water;GIS werkzaamheden ;Rudie Peeten;Opdracht;40;;;;;;;;;;;;;;;;;;;;;4;4;8;8;8;4;4;0;;;;;;;;;;;;;;;;;;;;;;;;;
+Maikel Nouws;WS;;Diverse projecten;GIS werkzaamheden ;;;40;;;;;;;;;;;;;;;;;;;;;4;4;8;12;8;8;12;4;;;;;;;;;;;;;;;;;;;;;;;;;
+Mark van der Valk;WS;;Vakantie;Vakantie;;;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Mark van der Valk;WS;;calamiteiten verlof;;;;32;;;;;;;;;0;0;0;0;0;0;4;0;12;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;
-Mark van der Valk;WS;191830;Detachering ass Tech manager WSRL;;Niels van Huet;Opdracht;32;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;20;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24
+Mark van der Valk;WS;191830;Detachering ass Tech manager WSRL;;Niels van Huet;Opdracht;32;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;20;24;24;24;24;24;24;0;0;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24;24
 Mark van der Valk;WS;194390;Waakvlamoverenekomst WSRL;;Niels van Huet;Offerte;32;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Mark van der Valk;WS;200017;Tender Stad Tiel;;Bas Harmsen;Offerte;32;0;0;5;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Mark van der Valk;WS;181245;Hoekse aarkade;Projectleiding;Martijn Huisjes;Opdracht;32;0;0;0;0;2;2;0;0;0;0;0;0;0;2;2;8;0;6;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -190,7 +200,7 @@ Martin Schepers;WG;202755;Bewonersinitiatief waterkering Arcen Midden;;;;40;;;;;
 Martin Schepers;WG;;Tender Stenendijk;;;;40;;;;;;;;;;;;;;;;;;;;;;;12;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Martin Schepers;WG;;;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Michiel Krutwagen;WG;;Vakantie;Vakantie;;;36;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4
-Michiel Krutwagen;WG;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;Martijn Huisjes;Offerte;36;0;0;0;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;20;20;20;20;20;20;20;20;20;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Michiel Krutwagen;WG;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;Martijn Huisjes;Offerte;36;0;0;0;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;28;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;20;0;0;0;0;0;0
 Michiel Krutwagen;WG;180929;Rijnland contract 4 poldergemalen;;Martijn Huisjes;Opdracht;36;0;0;0;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Michiel Krutwagen;WG;183944;ROK ITA (A en M / 4W);Casus perceel 1;Niels van Huet;Offerte;36;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Michiel Krutwagen;WG;;;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -203,38 +213,38 @@ Monique Hagedoorn;WG;193561;Sterke Lekdijk;Tendermanagement;Monique Hagedoorn;Of
 Monique Hagedoorn;WG;;IPMA C training;Cursussen;;;40;;;12;;;;;;;12;;;;12;;;;;12;;;;12;;;;12;;;;;;;;;;;;;;;;;;;;;;;;;;
 Monique Hagedoorn;WG;;Inwerken;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Monique Hagedoorn;WG;;SAFE;Tendermanagement;;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;16;32;28;32;32;32;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Nico van der Zouw;WG;;Vakantie;Vakantie;;;32;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;24;0;8;8;8;0;0;0;0;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Nico van der Zouw;WG;;Reserveren NIET VERDER INVULLEN;;;;32;;;;;;;1;1;6;6;6;6;6;4;4;4;4;;;4;4;4;4;4;4;4;4;;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4
-Nico van der Zouw;WG;;VIIA - DETACHERING;Geen projectnummer nog;;;32;;24;24;24;24;32;31;31;20;20;20;16;32;32;16;16;16;16;16;16;16;10;20;20;20;20;20;10;16;20;20;20;20;20;20;20;20;20;20;;;;;;;;;;;;;;
+Nico van der Zouw;WG;;Vakantie;Vakantie;;;32;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;24;0;8;8;8;0;0;0;0;0;0;32;32;0;0;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nico van der Zouw;WG;;Reserveren NIET VERDER INVULLEN;;;;32;;;;;;;1;1;6;6;6;6;6;4;4;4;4;;;4;4;4;4;4;10;4;4;4;4;;;4;4;;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4
+Nico van der Zouw;WG;;VIIA - DETACHERING;Geen projectnummer nog;;;32;;24;24;24;24;32;31;31;20;20;20;16;32;32;16;16;16;16;16;16;16;10;20;20;20;20;20;28;28;;;28;28;;20;20;20;20;20;stand planning VIIA 4-07-2020;;;;;;;;;;;;;
 Nico van der Zouw;WG;192181;192181_Monitoring HargaSchiedam;;Danny;;32;;8;4;8;8;;;;;;6;6;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;192182;191282_Zwijndrecht - Wareco;;Imre van Hal;;32;;;;;;;;;;;2;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;192345;192345 N331 Hasselt-Zwartsluis;;Lex ;;32;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;;Projectreservering ging niet door, leeg;exacte beschrijving volgt;Dirk-Jan Staman;Offerte;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;;Projectreservering ging niet door, leeg;exacte beschrijving volgt;Dirk-Jan Staman;Offerte;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;190688;Ijsselmuiden;Beschouwen of grondprofiel gelijk is aan advies;Roy Feijen;;32;;;;;;;;;;;;;;;;;;;;4;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Nico van der Zouw;WG;202404;RijswijkBuiten;draagkracht wegconstruictie;Ilse / Niek;offerte;32;;;;;;;;;;;;;;;;;;;;;;1;1;4;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Nico van der Zouw;WG;202404;RijswijkBuiten;draagkracht wegconstruictie;Ilse / Niek;offerte;32;;;;;;;;;;;;;;;;;;;;;;1;1;;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Nico van der Zouw;WG;194893;ZWW Zuid 380;stbiliteit;Roy Feijen;opdracht;32;;;;;;;;;;;;;;;;;;;;;;16;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Nico van der Zouw;WG;Regel niet gebruiken,  invoegen nieuwe regels;;;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Niek Evers;WG;;Kolksluis Spaarndam;Technisch adviseur;Dirk-Jan Staman;Opdracht;40;;24;16;16;16;24;10;16;4;;;;;;;;8;4;4;8;8;16;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Detachering Waterschap Limburg;Ondersteuningen WL;Niek Evers;Opdracht;40;;10;10;10;10;10;10;10;10;10;10;8;8;8;8;8;8;4;4;8;8;10;8;8;8;8;8;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Kustvisie IJmuiden;Coordinatie;Sanne v Mispelaar;Opdracht;40;;;2;2;2;2;6;;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Beleid Kustplaats Ijmuiden;Coordinatie en adviseur;Sanne v Mispelaar;Offerte;40;;;;;;;;;;2;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Zettingsanalyses Paleiskwartier;Adiviseur;Sanne v Mispelaar;Offerte;40;;;;;;;;;;;;;2;;4;8;8;4;4;;;4;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Werkzaamheden Geotechniek 19 gemalen;Adviseur;Dirk-Jan Staman;Opdracht;40;;;;;;;;;;;;;4;8;8;4;4;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Geotechniek;Coordinatie PL;;;40;;1;1;1;1;1;1;1;1;1;1;3;6;4;;1;1;1;1;1;1;1;1;1;1;1;1;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Dijkje Nigtevechtseweg;Coordinatie;Martijn Huisjes;Opdracht;40;;8;4;;;;;;;;;;;;;;;4;4;4;4;4;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Dijkinspectie Afsluitdijk;Coordinatie;Martijn Huisjes;Opdracht;40;;8;4;;;;;;;4;;1;1;2;8;16;4;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Dijkinspectie IJsselmeergebied;Coordinatie;Martijn Huisjes;Offerte;40;;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Dijkinspectie Maas;paalfundering;Jeroen Helder;Opdracht;40;;8;4;;;;;;;;;;;3;2;;;16;16;16;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Funderingsadvies Verdeelstation;paalfundering;Jeroen Helder;Opdracht;40;;8;4;;;;;;;;;;;3;2;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Young Bondts;Coordinatie;;;40;;1;3;2;2;4;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;2;1;1;1;1;1;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Mail/overleg/overig;Vakantie;;;40;;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Cursus Communicatie voor Adviseurs;Cursussen;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Cursus IPMA en Communciatie;Cursussen;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Niek Evers;WG;;Vakantie;Vakantie;;;40;40;;;;;;8;;;;8;;;;8;;;8;8;;16;;8;;;;;;;;;;;;40;40;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nico van der Zouw;WG;Regel niet gebruiken,  invoegen nieuwe regels;;;;;32;;;;;;;;;;;;;;;;;;;;;;;pinksteren;;;;;;;;;;;Berlijn;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Kolksluis Spaarndam;Technisch adviseur;Dirk-Jan Staman;Opdracht;40;;24;16;16;16;24;10;16;4;;;;;;;;8;4;4;8;8;16;8;10;8;;8;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Detachering Waterschap Limburg;Ondersteuningen WL;Niek Evers;Opdracht;40;;10;10;10;10;10;10;10;10;10;10;8;8;8;8;8;8;4;4;8;8;10;8;10;10;8;10;10;10;10;10;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Wheredijk;Coordinator;Sanne v Mispelaar;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;;1;1;;;;;1;;;;1;;;;1;;;;;;;;;;;;;
+Niek Evers;WG;;Bewonersinitiatief waterkering Arcen Midden;Technisch adviseur;Martin Schepers;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;1;6;2;8;8;8;8;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Geotechnisch advies asfaltcentrale KWS;Technisch adviseur;Sanne v Mispelaar;Offerte;40;;;;;;;;;;;;;;;;;;;;;;;;;;;4;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Strippenkaart HDSR;Technisch adviseur / coordinatie;Martijn Huisjes;Offerte;40;;;;;;;;;;;;;;;;;;;;;;;;;;6;1;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Kustvisie IJmuiden;Coordinatie;Sanne v Mispelaar;Opdracht;40;;;2;2;2;2;6;;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Waterveilighedsadvies 5 gemalen;Technisch adviseur;Dirk-Jan Staman;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;8;8;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Beleid Kustplaats Ijmuiden;Coordinatie en adviseur;Sanne v Mispelaar;Offerte;40;;;;;;;;;;2;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Zettingsanalyses Paleiskwartier;Adiviseur;Sanne v Mispelaar;Opdracht;40;;;;;;;;;;;;;2;;4;8;8;4;4;;;4;10;10;1;1;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Geotechniek;Coordinatie PL;;;40;;1;1;1;1;1;1;1;1;1;1;3;6;4;;1;1;1;1;1;1;1;1;3;1;1;1;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Dijkje Nigtevechtseweg;Coordinatie;Martijn Huisjes;Opdracht;40;;8;4;;;;;;;;;;;;;;;4;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Young Bondts;Coordinatie;;;40;;1;3;2;2;4;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;2;1;1;1;1;1;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Mail/overleg/overig;Vakantie;;;40;;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Cursus Communicatie voor Adviseurs;Cursussen;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Cursus IPMA en Communciatie;Cursussen;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Niek Evers;WG;;Vakantie;Vakantie;;;40;40;;;;;;8;;;;8;;;;8;;;8;8;;16;;8;;;;;;;;;;;;40;40;40;40;;;;;;;;;;;;;;;
 Niels van Huët;DM;;Vakantie;Vakantie;;;40;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Niels van Huët;DM;;ROK ITA (A en M / 4W);Projectleiding;;;40;12;16;16;16;16;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Oscar Meesters;WG;;Vakantie;Vakantie;;;40;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Oscar Meesters;WG;;Vakantie;Vakantie;;;40;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;8;0;0;0;0;0;0;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Oscar Meesters;WG;;Horizontale belasting palen Verdeelstation;paalfundering;Jeroen Helder;Opdracht;40;;;;;;;;;;;;;;;8;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Zettingsanalsyes Paleiskwartier;;;Offerte;40;;;;;;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Schakenbosch;;Patrick Dassen;Opdracht;40;;;;1;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -244,41 +254,45 @@ Oscar Meesters;WG;;Yara, stortsteen;;Jos Sinke;Offerte;40;;3;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Ijsselmuiden;Aanvullende offerte;Roy Feijen;Offerte;40;;;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;ROK ITA (A en M / 4W);Casus Gouwe;Niels van Huet;Offerte;40;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Oscar Meesters;WG;;Provincie Overijssel;CPT in BRO;Sanne van Mispelaar;Opdracht;40;;;4;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Oscar Meesters;WG;191714;Detachering WSRL;;Niels van Huet;;40;24;24;24;24;24;24;24;32;32;32;32;32;32;32;32;32;32;32;32;32;32;24;8;8;8;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Oscar Meesters;WG;191714;Detachering WSRL overige inzet andere proj;;Niels van Huet;;40;;;;;;;;;;;;;;;;;;;;;;;16;16;16;16;16;24;24;24;24;24;24;24;24;24;24;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Oscar Meesters;WG;;Bouwputadvies Ijgenwijs;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;8;16;;;;;;;;;;;;;;;;;;;;;;;;;;
+Oscar Meesters;WG;191714;Detachering WSRL;;Niels van Huet;;40;24;24;24;24;24;24;24;32;32;32;32;32;32;32;32;32;32;32;32;32;32;24;32;32;32;24;24;16;16;0;16;16;16;16;16;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0;0
+Oscar Meesters;WG;191714;Detachering WSRL overige inzet andere proj;;Niels van Huet;;40;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;172149;Glanerbeek;;Richard Jansink;Opdracht;36;1;4;4;0;0;0;0;0;0;0;0;0;0;2;0;4;0;0;0;8;8;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;190601;Witterdiep;;Richard Jansink;Opdracht;36;1;8;12;4;4;4;4;4;4;0;0;12;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;191147;NVO Alm en Biesbosch;;Richard Jansink;Opdracht;36;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;190302;Afkoppelkansenkaart Gooise Meren;Definitieve rapportage;Richard Jansink;Opdracht;36;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;200466;Gemeentehuis Bussum;;Richard Jansink;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;4;2;4;4;8;4;0;8;4;2;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Richard Jansink;WS;200667;OAS Harnaschpolder;;Richard Jansink;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;6;4;4;4;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Richard Jansink;WS;200667;OAS Harnaschpolder;;Richard Jansink;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;4;8;0;0;0;0;0;0;6;4;4;4;4;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;193678;ROVK WS Limburg;;Richard Jansink;Offerte;36;0;0;0;0;0;0;0;0;0;0;0;8;8;12;8;8;8;8;16;0;0;8;8;12;12;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;;Taken Teamleider;;;;36;6;6;8;12;4;4;8;4;4;4;8;8;8;12;8;8;8;8;8;8;4;8;8;8;8;8;8;0;0;0;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0
 Richard Jansink;WS;;Acquisitie;;;;36;0;0;0;0;4;0;0;4;4;0;0;0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Richard Jansink;WS;;Opleiding/beoordeling/POP;;;;36;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Richard Jansink;WS;;Opleiding/beoordeling/POP;;;;36;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;4;8;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Richard Jansink;WS;;Vakantie;Vakantie;;;36;20;0;0;0;0;0;0;0;8;0;0;0;0;0;0;8;0;8;0;0;20;0;12;0;0;0;8;36;36;36;0;0;0;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;16
-Robert Jansen;WG;;Vakantie/Verlof;Vakantie;;;40;40;8;0;0;0;0;0;0;0;32;0;2;0;0;8;8;0;8;16;0;16;0;8;0;0;0;0;0;0;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40;40
+Robert Jansen;WG;;Vakantie/Verlof;Vakantie;;;40;40;8;0;0;0;0;0;0;0;32;0;2;0;0;8;8;0;8;16;0;16;0;8;16;0;0;0;0;0;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40;40
 Robert Jansen;WG;20C058;Finance & Control Asset Insight;Ondersteuning Bertus en Mariëlle;Bertus Embsen;;40;0;16;16;16;8;4;4;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;;Management Traineeship;Diversen;;;40;0;4;4;4;4;4;4;8;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;193716;Lauwersmeerdijk Vierhuizergat;Diversen;Bas Harmsen;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;200215;HDSR GHIJ Noord;Diversen;Martijn Huisjes;Offerte;40;0;0;0;0;4;2;8;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;200784;Drainage Zwaluw;Diversen;Joop Meinders;Opdracht;40;0;0;0;0;0;6;4;4;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Robert Jansen;WG;194480;Stenendijk WDOD;Diversen;Bas Harmsen;Offerte;40;0;0;0;0;0;0;4;4;2;0;0;2;2;2;4;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
-Robert Jansen;WG;;Werkzaamheden afdeling water incl. dStyle;Diversen;Niels van Huet;;40;0;4;4;2;2;2;4;4;4;2;2;6;4;4;4;4;4;4;4;6;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;194480;Stenendijk WDOD;Diversen;Bas Harmsen;Offerte;40;0;0;0;0;0;0;4;4;2;0;0;2;2;2;4;2;2;2;2;2;2;2;4;4;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;;Werkzaamheden afdeling water incl. dStyle;Diversen;Niels van Huet;;40;0;4;4;2;2;2;4;4;4;2;2;6;4;4;4;4;4;4;4;6;4;4;4;4;4;4;8;6;6;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;183944;ROK ITA (A en M / 4W);Diversen;Niels van Huet;Offerte;40;0;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;;JVW;Diversen;;;40;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
-Robert Jansen;WG;181245;Schilkkade Hoekse Aarkade ;Diversen;Martijn Huisjes;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;6;6;6;2;2;2;2;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;181245;Schilkkade Hoekse Aarkade ;Diversen;Martijn Huisjes;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;6;6;6;2;2;2;2;1;1;1;1;3;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;194295;Contract 3 19 gemalen;Diversen;Dirk-Jan Staman;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;4;4;4;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
-Robert Jansen;WG;201533;Inhuur Zuiderzeeland;Diversen;Martijn Huisjes;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;4;2;4;1;1;0;0;2;2;0;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;12;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;201533;Inhuur Zuiderzeeland;Diversen;Martijn Huisjes;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;4;2;4;1;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Robert Jansen;WG;193678;ROK WL;Diversen;Richard Jansink;Offerte;40;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Robert Jansen;WG;;Training IPMA D;Diversen;Richard Jansink;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;12;0;8;0;0;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Ronja van der Roest;WS;;Vakantie;Vakantie;;;40;;;;;;;;;;;;;;;;;;;;;16;8;8;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;
-Ronja van der Roest;WS;;Areaalpotentiescan RWS;Dashboard vullen ;Dirk van Hout ;Opdracht;40;;;;;;;;;;;;;;;;;;;;;12;16;12;12;12;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ronja van der Roest;WS;;CSR VolkerWessels ;Data analyse ;Thomas Stenenga ;Opdracht;40;;;;;;;;;;;;;;;;;;;;;8;8;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ronja van der Roest;WS;;Dijkwachtersorganisatie Noord ;GIS werkzaamheden ;Niek Evers;Opdracht ;40;;;;;;;;;;;;;;;;;;;;;;8;4;12;12;12;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ronja van der Roest;WS;;Gezondheidsscan 't Zandt ;GIS werkzaamheden ;Niek Evers;Opdracht ;40;;;;;;;;;;;;;;;;;;;;;;8;;;4;8;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Sanne van Mispelaar - Schalkx;WG;;Vakantie;Vakantie;;;32;32;;;;;;;;32;;;;;;;;;32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;32
-Sanne van Mispelaar - Schalkx;WG;;Vakgroepleiding;Capaciteitsoverleggen, afstemming e.d. ;;;32;0;2;12;12;12;2;2;2;;2;8;8;8;8;8;8;8;;;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8
+Robert Jansen;WG;;Voorcalculatie Bertus;Ondersteuning Bertus;Bertus Embsen;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;203065;RWZI Westerkwartier;Diversen;Martijn Huisjes;Offerte;40;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;8;8;10;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Robert Jansen;WG;;Training IPMA D;Diversen;Richard Jansink;Offerte;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;12;0;8;0;4;8;12;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ronja van der Roest;WS;;Vakantie;Vakantie;;;40;;;;;;;;;;;;;;;;;;;;;16;8;8;;;;;8;;40;;;8;;;;;;;;;;;;;;;;;;;;
+Ronja van der Roest;WS;;Areaalpotentiescan RWS;Dashboard vullen ;Dirk van Hout ;Opdracht;40;;;;;;;;;;;;;;;;;;;;;12;16;12;12;12;8;8;8;12;;8;8;;;;;;;;;;;;;;;;;;;;;
+Ronja van der Roest;WS;;CSR VolkerWessels ;Data analyse ;Thomas Stenenga ;Opdracht;40;;;;;;;;;;;;;;;;;;;;;8;8;4;4;4;4;8;8;8;;8;8;;;;;;;;;;;;;;;;;;;;;
+Ronja van der Roest;WS;;Dijkwachtersorganisatie Noord ;GIS werkzaamheden ;Niek Evers;Opdracht ;40;;;;;;;;;;;;;;;;;;;;;;8;4;12;12;12;12;8;3;;;;;;;;;;;;;;;;;;;;;;;;
+Ronja van der Roest;WS;;Gezondheidsscan 't Zandt ;GIS werkzaamheden ;Niek Evers;Opdracht ;40;;;;;;;;;;;;;;;;;;;;;;8;;;2;10;5;;2;;;;;;;;;;;;;;;;;;;;;;;;
+Ronja van der Roest;WS;;Stadsblokken Meinerswijk ;GIS werkzaamheden ;Berny Kok;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4;;;;20;10;;;;;;;;;;;;;;;;;;;
+Sanne van Mispelaar - Schalkx;WG;;Vakantie;Vakantie;;;32;32;;;;;;;;32;;;;;;;;;32;32;;;;;;;;;;;;32;32;32;8;8;;;;;;;;;;;;;;;;;;32
+Sanne van Mispelaar - Schalkx;WG;;Vakgroepleiding;Capaciteitsoverleggen, afstemming e.d. ;;;32;0;2;12;12;12;2;2;2;;2;8;8;8;8;8;8;8;;;8;8;8;8;16;16;16;8;8;8;8;;;;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8
 Sanne van Mispelaar - Schalkx;WG;;Cursus, semniars en bijeenkomsten;;;;32;;;;;;;;;;;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Sanne van Mispelaar - Schalkx;WG;;Aquisitiegesprekken ;;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Sanne van Mispelaar - Schalkx;WG;;kwaliteitsborging (zvm boeken op projecten);;;;32;0;;;;;;;;;2;2;2;2;2;2;2;2;;;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2
@@ -291,53 +305,60 @@ Sanne van Mispelaar - Schalkx;WG;;SO3 kunstwerken;schrijven tenderstukken;Dennis
 Sanne van Mispelaar - Schalkx;WG;;Kleine offertes maken;Diversen;diverse;Offerte;32;;;;2;2;2;;;;;4;2;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Sanne van Mispelaar - Schalkx;WG;;Kleine offertes maken;Diversen;diverse;Offerte;32;;;;2;2;2;;;;;4;2;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Sanne van Mispelaar - Schalkx;WG;182400;Piekberging ondersteuning;ondersteuning bij aanbesteding;;opdracht;32;0;0;0;0;0;0;0;0;0;0;0;0;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sanne van Mispelaar - Schalkx;WG;;Markermeerdijken;detachering;Sanne van Mispelaar;Offerte;32;;;;;;;;;;;;;;;;;;;;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sanne van Mispelaar - Schalkx;WG;;Paleiskwartier;PL en advies;Sanne van Mispelaar;opdracht;32;;;;;;;;;;;;;;;;;;;;4;12;8;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sanne van Mispelaar - Schalkx;WG;;OpenIJ advies verharding;PL en advies;Sanne van Mispelaar;opdracht;32;;;;;;;;;;;;;;;;;;;;1;4;12;8;4;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Sanne van Mispelaar - Schalkx;WG;;verdeelstation paalfundering;paalfundering;Jeroen Helder;Opdracht;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sara Eeman;WS;;Vakantie;Vakantie;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;32;32;8;;;;;;;;;;;;;;;;;;;;;
-Sara Eeman;WS;;VHL detachering;;;;32;;;;;;;;;;;;;;8;12;12;12;12;12;12;12;12;12;12;12;12;12;12;6;;;;;;;;;;;;;;;;;;;;;;;;
-Sido Grin;WS;;Vakantie;Vakantie;;;40;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sara Eeman;WS;;Vakantie;Vakantie;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;32;32;4;;;;;;;;;;;;;;;;;;;;;
+Sara Eeman;WS;202363;infiltratie A28 wezep;PL en advies;;;32;;;;;;;;;;;;;;;;;;;;;;;;3;2;2;0;0;0;;;4;3;3;3;;;;;;;;;;;;;;;;;;
+Sara Eeman;WS;20C062;Programma Watersysteem;;;;32;;;;;;;;;;;;;;;;;;;;;;;;8;8;8;8;8;6;;;;;;;;;;;;;;;;;;;;;;;;
+Sara Eeman;WS;20C062;infitratie casus VKessel;PL en advies;;;32;;;;;;;;;;;;;;;;;;;;;;;;4;2;8;4;2;2;;;;;;;;;;;;;;;;;;;;;;;;
+Sara Eeman;WS;202801;LS3;;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;2;4;4;;;4;4;4;4;4;4;;;;;;;;;;;;;;;;
+Sara Eeman;WS;;VHL detachering;MT master ;;;32;;;;;;;;;;;;;;8;12;12;12;12;12;12;12;12;12;12;12;12;12;12;6;;;;;4;4;12;12;4;4;4;4;4;4;4;4;4;4;4;4;4;4;;
+Sido Grin;WS;;Vakantie;Vakantie;;;40;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Sido Grin;WS;;;;;;40;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sido Grin;WS;;A13/A16;;;;40;12;24;24;24;24;24;32;32;32;32;32;32;32;32;32;32;32;32;24;24;24;24;32;32;32;32;32;0;24;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sido Grin;WS;;WHP Vlierlanden (gem. Ommen);;;;40;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;4;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sido Grin;WS;;WHP Havezate Es (gem. Hardenberg);;;;40;0;0;8;8;0;0;0;0;0;0;0;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sido Grin;WS;;Watertoets Fountain Fuel Amersfoort;;;;40;0;8;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sjoerd Schakel;WS;182505;A13/A16;adviseur/ontwerpleider HHD;Joop Meinders;opdracht;40;0;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Sjoerd Schakel;WS;;Vakantie;Vakantie;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sido Grin;WS;;A13/A16;;;;40;12;24;24;24;24;24;32;32;32;32;32;32;32;32;32;32;32;32;24;24;24;24;32;32;32;32;32;24;0;24;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sido Grin;WS;;WHP Vlierlanden (gem. Ommen);;;;40;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sido Grin;WS;;WHP Havezate Es (gem. Hardenberg);;;;40;0;0;8;8;0;0;0;0;0;0;0;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sido Grin;WS;;Watertoets Fountain Fuel Amersfoort;;;;40;0;8;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;8;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sjoerd Schakel;WS;182505;A13/A16;adviseur/ontwerpleider HHD;Joop Meinders;opdracht;40;0;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;40;24;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sjoerd Schakel;WS;;Vakantie;Vakantie;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24;40;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thijs Gerritsen;WS;;Vakantie;Vakantie;;;40;40;0;0;0;0;0;8;0;0;0;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thijs Gerritsen;WS;181804;Blokhoeve West;WHHK plan;Thijs Visser;Opdracht;40;0;16;8;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Gerritsen;WS;193208;Reeuwijk WGP Bloemendaal Landelijk;Uitwerking 4 maatregelen;Martijn Huisjes;Opdracht;40;0;8;4;4;4;4;4;6;4;4;4;0;1;1;1;1;1;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Gerritsen;WS;193208;Reeuwijk WGP Bloemendaal Landelijk;Uitwerking 4 maatregelen;Martijn Huisjes;Opdracht;40;0;8;4;4;4;4;4;6;4;4;4;0;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thijs Gerritsen;WS;193208;Reeuwijk WGP Oplossen Verhang;Uitwerking 1 maatregel;Martijn Huisjes;Offerte;40;0;8;0;0;0;0;0;0;0;0;0;0;4;2;0;0;0;4;4;2;4;4;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 ;;;;;;;40;0;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thijs Gerritsen;WS;191147;ZLTO NVO Biesbosch;Voorbereiding en ontwerp NVO;Richard Jansink;Opdracht;40;0;0;0;3;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Gerritsen;WS;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;Dirk-Jan Staman;opdracht;40;0;0;12;0;12;16;32;32;32;32;32;16;40;40;40;40;40;40;40;40;24;40;40;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Gerritsen;WS;;TMP gaat voorlopig niet door;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;172149;Glanerbeek;Ondersteuning ontwerp;Richard Jansink;Opdracht;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;190601;Witterdiep;Begeleiding ontwerp;Richard Jansink;Opdracht;32;0;6;6;4;4;4;8;4;4;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;193114;Stresstest Noord Brabant;PL en uitvoering werkzaamheden;Thijs Visser;Opdracht;32;0;8;8;12;12;8;8;8;8;8;8;16;4;4;12;12;8;24;12;12;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Gerritsen;WS;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;Dirk-Jan Staman;opdracht;40;0;0;12;0;12;16;32;32;32;32;32;16;40;40;40;40;40;40;40;40;24;40;40;40;40;40;40;40;40;40;40;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Gerritsen;WS;;TMP gaat voorlopig niet door;;;;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Visser;WS;193114;Stresstest Noord Brabant;PL en uitvoering werkzaamheden;Thijs Visser;Opdracht;32;0;8;8;12;12;8;8;8;8;8;8;16;4;4;12;12;8;24;12;12;12;0;0;16;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thijs Visser;WS;194498;Presentatie Tygron pilots HDSR;PL en uitvoering werkzaamheden;Thijs Visser;Opdracht;32;0;8;8;12;12;8;8;8;8;8;8;4;12;12;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;194446;Berekeningen watersysteem Enschede Zuid;Offerte;Thijs Visser;Offerte;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;190317;Waterberging Harselaar West West;PL en uitvoering werkzaamheden;Thijs Visser;Opdracht;32;0;0;0;0;0;0;0;0;0;0;0;0;0;4;8;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;;Stresstest nieuwbouw Groenewoud;PL;Thijs Visser;offerte;32;;;;;;;;;;;;;;8;4;4;4;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Thijs Visser;WS;;Stresstest nieuwbouw Kabeldistrict Delft;PL;Eva de Ruiter;Opdracht;32;;;;;;;;;;;;;4;4;4;;;;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Thijs Visser;WS;;Template HDSR;Offerte;Thijs Visser;offerte;32;;;;;;;;;;;;;8;;4;8;4;8;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;190317;Waterberging Harselaar West West;PL en uitvoering werkzaamheden;Thijs Visser;Opdracht;32;0;0;0;0;0;0;0;0;0;0;0;0;0;4;8;0;4;4;0;0;0;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Visser;WS;;Stresstest nieuwbouw Groenewoud;PL;Thijs Visser;Opdracht;32;;;;;;;;;;;;;;8;4;4;4;4;4;4;4;;;4;4;;8;8;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;;Stresstest nieuwbouw Kabeldistrict Delft;PL;Eva de Ruiter;Opdracht;32;;;;;;;;;;;;;4;4;4;;;;2;;;;;2;4;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;;Template HDSR;PL;Thijs Visser;offerte;32;;;;;;;;;;;;;8;;4;8;4;8;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Thijs Visser;WS;;Model stedelijk water Lelystad;PL + uitvoering;Thijs Visser;Opdracht;32;;;;;;;;;;;;;4;8;4;4;4;;4;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Thijs Visser;WS;1;Acquistie;Bezoek Noorderzijlvest - Leendert Visser;;;32;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;1;Gastlessen VHL;Voorbereiding en college geven;;;32;0;2;0;0;0;4;8;0;0;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thijs Visser;WS;1;Vakantie;Vakantie;;;32;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Witterdiep;Modeluitwerking;Richard Jansink;Opdracht;40;0;0;8;0;0;0;0;0;0;0;0;10;0;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Screening Waterschade Striper;Rapportage + informatieopvraag;Beatrijs Koet;Opdracht;40;0;0;4;0;0;0;0;0;0;0;0;2;0;2;2;0;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Vrij;;;;40;0;0;0;0;0;0;0;0;0;0;0;24;0;0;0;0;0;36;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Waterschade Lempens;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Waterschade Creemers;Afronden rapportage screening;Beatrijs Koet;Opdracht;40;0;0;6;0;0;0;0;0;0;0;0;0;30;24;24;16;20;0;12;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Grondwatermonitoring Groene Boog;;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;30;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Afstudeerstage Roos;Afronden rapportage;Thijs Visser;Opdracht;40;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Patijnlaan Den Haag;Afronden rapportage;Thijs Visser;Opdracht;40;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Thomas Mittring;WS;;Modelcheck Waterschap;Afronden rapportage screening;Beatrijs Koet;Opdracht;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Visser;WS;202801;Model stedelijk water Lelystad;;;;32;;;;;;;;;;;;;;;;;;;;;;;;6;8;8;8;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;202367;H2O Wezep;;;;32;;;;;;;;;;;;;;;;;;;;;;;;;2;2;2;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;;OAS Harnaschpolder;;;;32;;;;;;;;;;;;;;;;;;;;;;;;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;;;;;;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thijs Visser;WS;1;Acquistie;;;;32;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thijs Visser;WS;1;Vakantie;Vakantie;;;36;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Witterdiep;Modeluitwerking;Richard Jansink;Opdracht;36;0;0;8;0;0;0;0;0;0;0;0;10;0;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Screening Waterschade Striper;Rapportage + informatieopvraag;Beatrijs Koet;Opdracht;36;0;0;4;0;0;0;0;0;0;0;0;2;0;2;2;0;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Vrij;;;;36;0;0;0;0;0;0;0;0;0;0;0;24;0;0;0;0;0;36;16;0;0;0;0;0;0;0;0;0;0;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Waterschade Lempens;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Waterschade Creemers;Afronden rapportage screening;Beatrijs Koet;Opdracht;36;0;0;6;0;0;0;0;0;0;0;0;0;30;24;24;16;20;0;12;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Grondwatermonitoring Groene Boog;;;;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;30;30;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Afstudeerstage Roos;Afronden rapportage;Thijs Visser;Opdracht;36;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Patijnlaan Den Haag;Afronden rapportage;Thijs Visser;Opdracht;36;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;12;4;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thomas Mittring;WS;;Peilvak LS3;Afronden rapportage screening;Beatrijs Koet;Opdracht;36;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;10;6;30;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Thomas Mittring;WS;;Waterschade Peeters-Bonten;Afronden rapportage;Thijs Visser;Opdracht;40;0;5;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;4;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Ward van Laatum;WS;;Vakantie;Vakantie;;;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Ward van Laatum;WS;;Mooder Maas;;Jeroen Helder;Opdracht;40;;;;;;;;;;;;20;4;0;0;0;0;;1;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Dareius;;Leon van Hamersveld;R&D;40;;;;;;;;;;;;6;0;4;4;8;4;;0;5;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ward van Laatum;WS;;Stresstest Brabant;;Thijs Visser;Opdracht;40;;;;;;;;;;;;2;0;16;8;8;8;;0;8;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Ward van Laatum;WS;;De Lange Rekken;;Ellen Muskens;Opdracht;40;;;;;;;;;;;;2;0;2;1;0;2;;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ward van Laatum;WS;;Stresstest Brabant;;Thijs Visser;Opdracht;40;;;;;;;;;;;;2;0;16;8;8;8;;0;8;0;;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ward van Laatum;WS;;De Lange Rekken;;Ellen Muskens;Opdracht;40;;;;;;;;;;;;2;0;2;1;0;2;;0;0;0;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;ICT BU Water;;Niels van Huet;R&D;40;;;;;;;;;;;;1;1;1;1;1;1;1;1;1;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Bemalingsadvies Delfzeil;;Steven van Barkel;Opdracht;40;;;;;;;;;;;;0;2;0;1;0;0;;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Infiltratie onderzoek Heino P+R;;Antoine Booms;Offerte;40;;;;;;;;;;;;;;;2;0;2;;0;1;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -346,18 +367,20 @@ Ward van Laatum;WS;;Tygron ontwikkelingen;;Niels van Huet;R&D;40;;;;;;;;;;;;0;10
 Ward van Laatum;WS;;Overleg Watersystemen;;Richard Jansink;;40;;;;;;;;;;;;;;;;;2;;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Offerte grondwatermonitoring Leidschendam;;Eva Guiterez;Offerte;40;;;;;;;;;;;;;;;;;2;;0;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Template Tygron HDSR;;Thijs Visser;Opdracht;40;;;;;;;;;;;;;;;;;;;8;16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ward van Laatum;WS;;Restvragen Sluis IJmuiden;;;;40;;;;;;;;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Ward van Laatum;WS;;Offerte Havezate Ed;;Sido Grin;Offerte;40;;;;;;;;;;;;;;;;;;;;0;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;WS;;Vakantie;Vakantie;;;40;40;8;0;0;0;0;40;0;0;0;0;0;0;0;0;8;0;8;16;0;16;0;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
-Willeke van de Wardt;WS;1;Teamoverleg/BU-overleg/bila;;;;40;;;;;;;;;;;;;;2;0;0;2;0;0;0;0;2;1;2;0;0;2;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;WS;1;Tygron;Artikel;;;40;;;;16;4;;;;;;0;0;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;;Vakantie;Vakantie;;;40;40;8;0;0;0;0;40;0;0;0;0;0;0;0;0;8;0;8;16;0;16;0;8;0;8;0;0;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+Willeke van de Wardt;WS;1;Teamoverleg/BU-overleg/bila;;;;40;;;;;;;;;;;;;;2;0;0;2;0;0;0;0;2;1;2;0;0;2;;;;;;;;8;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;1;Tygron;Artikel;;;40;;;;16;4;;;;;;0;0;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;;;;;;;8;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;1;dstyle;Documentbeheerder;;;40;;;;;;;;;;;;2;;1;;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;192291;TB_ARKNZK;Rapportage Alternatieve afvoerroutes;Richard Jansink;Afgerond;40;;;;8;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;190858;Afweging gemaal KAT-terrein Leiden;Advies uitwerken haalbaarheid;Bart Snijders;Opdracht;40;;;;;2;0;0;0;0;0;0;0;0;0;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;191844;Vervolg proces klimaatadaptie Zeewolde;;Guy Henckens;Opdracht;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;191979;Terborg;Tygron model;Marijn Stadhouder;Opdracht;40;;;;2;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;WS;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;;Opdracht;40;;;;8;8;16;0;40;40;40;40;8;40;40;40;24;24;24;24;33;24;30;32;40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;194295;Rijnland 19 poldergemalen;Renovatie 19 poldergemalen UAVgc;;Opdracht;40;;;;8;8;16;0;40;40;40;40;8;40;40;40;24;24;24;24;33;24;30;32;40;32;40;40;20;20;24;32;24;32;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;CK66;Verbeteren afwatering stationstunnel De Vink Leiden;Berekening afvoer;Mark van Dijk;Opdracht;40;;;;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;182658;Bestemmingsplan Müller Transport Holten;Watertoets;Jeroen Hendriks;Opdracht;40;;;;;2;;;;;;;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Willeke van de Wardt;WS;191184;Onderbemalingen Leiden;Nasturen shapefiles;Bart Snijders;Opdracht;40;;;;;;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;WS;201802;"Leiden; Aanpassingen DWA gemaal en HWA-riool Nieuw Leyden";Offerte;Leon van Hamersveld;Offerte;40;;;;;;;;;;;;4;;;;8;4;8;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Willeke van de Wardt;WS;194554;Klimaatadaptie Balk-Zuid;GIS kaarten en Tygron;Maaike Klein Overmeen;Opdracht;40;;;;;;;;;;;;;;;;;;;;6;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;201802;"Leiden; Aanpassingen DWA gemaal en HWA-riool Nieuw Leyden";Offerte;Leon van Hamersveld;1 vd 2 opdracht;40;;;;;;;;;;;;4;;;;8;4;8;;1;;;;;;;;4;4;16;8;16;;32;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;194554;Klimaatadaptie Balk-Zuid;GIS kaarten en Tygron;Maaike Klein Overmeen;Opdracht;40;;;;;;;;;;;;;;;;;;;;6;;;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;
+Willeke van de Wardt;WS;202512;Bergbezinkvoorziening Alberts- en Schapendijk Rijssen;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;;;;;;;
