@@ -22,7 +22,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 #%% Load dataframe
-df = pd.read_csv('Dashboard_input_v2.csv', sep='\t')
+df = pd.read_csv('Dashboard_input_v3.csv', sep=';')
 df.iloc[:, 7:61] = df.iloc[:, 7:61].fillna(0).astype(float)
 #%% Prepare dataframe for werknemer data
 # Create dataframe for hours per week per werknemer
